@@ -26,25 +26,30 @@ First start with downloading the code and and write npm install on code editor, 
 You will need a code editor and mongoDB setup on your computer.
 We will use postman to check the api is working or not,So download postman on your computer.
 
-1.Now use this **http://localhost:3000/doctors/register** route to register doctor in API and add the info as shown in image
+1.Now use this **http://localhost:3000/doctors/register** route to register doctor in API and add the info as shown in image below:
+<img width="1440" alt="Screenshot 2023-07-21 at 5 53 46 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/6d535ad9-379a-4c7f-a3aa-08491bf08ee9">
 
-![image](https://user-images.githubusercontent.com/70103005/177214903-3c02cf1b-85eb-4a99-acf1-c18f084f8242.png)
+2.Use this **http://localhost:3000/doctors/login** to login as a doctor and add info as shown in image below:
+<img width="1440" alt="Screenshot 2023-07-21 at 5 53 59 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/6645e681-f281-4278-802b-efbd643787f2">
 
-2.Use this **http://localhost:3000/doctors/login** to login as a doctor and add info as shown in image
 
-![image](https://user-images.githubusercontent.com/70103005/177215328-258a4f89-7b1d-4001-bb02-d7865cb5176a.png)
 
-3.Use this **http://localhost:3000/patients/register** to register patient
+3.Use this **http://localhost:3000/patients/register** to register patient as shown in image below:
+<img width="1440" alt="Screenshot 2023-07-21 at 5 54 22 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/705ab03f-6f0c-4d75-888b-d7fa3cbb9b5b">
 
-![image](https://user-images.githubusercontent.com/70103005/177215836-3312bd1f-5cf2-4792-ac02-d2c340f916b5.png)
 
-4. Use this **http://localhost:3000/patients/:id/create_report** to create report and add status you can see the types of 
-   status in report model.
+4. Use this **http://localhost:3000/patients/:id/create_report** to create report and add status you can see the types of  status in report model:
 
-![image](https://user-images.githubusercontent.com/70103005/177215702-b8412d94-e56a-48ed-9694-6809e7b986a7.png)
+ <img width="1440" alt="Screenshot 2023-07-21 at 5 54 34 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/2c8ec65c-8bd7-4c27-8e3a-6e7c36384428">
 
-5. Use this **/patients/:id/all_reports** to get all the reports.
 
-![image](https://user-images.githubusercontent.com/70103005/177216169-b17c31c4-6219-460a-a93f-b77588d6b9b6.png)
+5. Use this **/patients/:id/all_reports** to get all the reports as shown below:
 
-6. Use this **http://localhost:3000/reports/:status** to get all reports  of all patients filtered by a specific status.
+<img width="1440" alt="Screenshot 2023-07-21 at 5 55 00 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/944bce95-f7f5-4b03-857b-bc921d9aff72">
+
+
+6. Use this **http://localhost:3000/reports/:status** to get all reports  of all patients filtered by a specific status as shown in image below:
+<img width="1440" alt="Screenshot 2023-07-21 at 5 55 08 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/38f80028-6605-4ed5-996d-77d2369afa4d">
+
+
+   
