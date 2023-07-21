@@ -43,7 +43,7 @@ We will use postman to check the api is working or not,So download postman on yo
  <img width="1440" alt="Screenshot 2023-07-21 at 5 54 34 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/2c8ec65c-8bd7-4c27-8e3a-6e7c36384428">
 
 
-5. Use this **/patients/:id/all_reports** to get all the reports as shown below:
+5. Use this **http://localhost:3000/patients/:id/all_reports** to get all the reports as shown below:
 
 <img width="1440" alt="Screenshot 2023-07-21 at 5 55 00 PM" src="https://github.com/nikhil01010/Hospital-API/assets/89354549/944bce95-f7f5-4b03-857b-bc921d9aff72">
 
